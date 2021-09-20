@@ -1,6 +1,6 @@
 # Repositorio dudas públicas
 
-Cualquier dudo pública utilizar el sitio de dudas del curso:
+Cualquier duda pública utilizar el sitio de dudas del curso:
 
 https://github.com/IIC2343/Syllabus-2021-2-S2/issues
 
@@ -22,18 +22,24 @@ https://github.com/IIC2343/Syllabus-2021-2-S2/issues
 
 #### Actividad 1
 
-- Sub-sección 1: Lunes 30 de Agosto de 14:00 a 16:00
-- Sub-sección 2: Lunes 30 de Agosto de 16:20 a 18:20 
-- Sub-sección 3: Lunes 6 de Septiembre de 14:00 a 16:00 
-- Sub-sección 4: Lunes 6 de Septiembre de 16:20 a 18:20
+- <s>Sub-sección 1: Lunes 30 de Agosto de 14:00 a 16:00</s>
+- <s>Sub-sección 2: Lunes 30 de Agosto de 16:20 a 18:20</s>
+- <s>Sub-sección 3: Lunes 6 de Septiembre de 14:00 a 16:00</s>
+- <s>Sub-sección 4: Lunes 6 de Septiembre de 16:20 a 18:20</s>
 
 
 #### Actividad 2
 
-- Sub-sección 1: Lunes 13 de Septiembre de 14:00 a 16:00
-- Sub-sección 2: Lunes 13 de Septiembre de 16:20 a 18:20 
+- <s>Sub-sección 1: Lunes 13 de Septiembre de 14:00 a 16:00</s>
+- <s>Sub-sección 2: Lunes 13 de Septiembre de 16:20 a 18:20</s>
 - Sub-sección 3: Lunes 20 de Septiembre de 14:00 a 16:00 
 - Sub-sección 4: Lunes 20 de Septiembre de 16:20 a 18:20
+
+#### Proyecto Grupal
+
+- Presentación Etapa 1: Lunes 4 de Octubre entre 14:00 a 18:20
+- Presentación Etapa 2: Lunes 8 de Noviembre entre 14:00 a 18:20
+- Presentación Final: Lunes 6 de Diciembre entre 14:00 a 18:20
 
 ## Calendario evaluaciones
 
