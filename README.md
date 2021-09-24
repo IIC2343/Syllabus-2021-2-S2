@@ -32,8 +32,8 @@ https://github.com/IIC2343/Syllabus-2021-2-S2/issues
 
 - <s>Sub-sección 1: Lunes 13 de Septiembre de 14:00 a 16:00</s>
 - <s>Sub-sección 2: Lunes 13 de Septiembre de 16:20 a 18:20</s>
-- Sub-sección 3: Lunes 20 de Septiembre de 14:00 a 16:00 
-- Sub-sección 4: Lunes 20 de Septiembre de 16:20 a 18:20
+- <s>Sub-sección 3: Lunes 20 de Septiembre de 14:00 a 16:00</s> 
+- <s>Sub-sección 4: Lunes 20 de Septiembre de 16:20 a 18:20</s>
 
 #### Proyecto Grupal
 
