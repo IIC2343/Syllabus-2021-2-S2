@@ -37,15 +37,15 @@ https://github.com/IIC2343/Syllabus-2021-2-S2/issues
 
 #### Proyecto Grupal
 
-- Presentación Etapa 1: Lunes 4 de Octubre entre 14:00 a 18:20
+- <s>Presentación Etapa 1: Lunes 4 de Octubre entre 14:00 a 18:20</s>
 - Presentación Etapa 2: Lunes 8 de Noviembre entre 14:00 a 18:20
 - Presentación Final: Lunes 6 de Diciembre entre 14:00 a 18:20
 
 ## Calendario evaluaciones
 
-- I1: Martes 28 de Septiembre a las 18:30 horas
+- <s>I1: Martes 28 de Septiembre a las 18:30 horas</s>
 - I2: Martes 16 de Noviembre a las 18:30 horas
 - Ex: Viernes 10 de Diciembre a las 8:30 horas
 
-## Fecha de la tarea: To be announced
+## Fecha de la tarea: Domingo 14 de Noviembre a las 20:00 horas
 
