@@ -47,5 +47,6 @@ https://github.com/IIC2343/Syllabus-2021-2-S2/issues
 - I2: Martes 16 de Noviembre a las 18:30 horas
 - Ex: Viernes 10 de Diciembre a las 8:30 horas
 
-## Fecha de la tarea: Domingo 14 de Noviembre a las 20:00 horas
+## Fecha de entrega de la tarea: 
+- Domingo 14 de Noviembre a las 20:00 horas
 
