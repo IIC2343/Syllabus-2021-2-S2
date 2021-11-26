@@ -44,9 +44,9 @@ https://github.com/IIC2343/Syllabus-2021-2-S2/issues
 ## Calendario evaluaciones
 
 - <s>I1: Martes 28 de Septiembre a las 18:30 horas</s>
-- I2: Martes 16 de Noviembre a las 18:30 horas
+- <s>I2: Martes 16 de Noviembre a las 18:30 horas</s>
 - Ex: Viernes 10 de Diciembre a las 8:30 horas
 
 ## Fecha de entrega de la tarea: 
-- Domingo 14 de Noviembre a las 20:00 horas
+- <s>Domingo 14 de Noviembre a las 20:00 horas</s>
 
